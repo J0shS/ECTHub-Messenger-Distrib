@@ -1,5 +1,5 @@
 {
-  "min_supported_version": "0.2.1",
+  "min_supported_version": "0.2.0",
   "latest_version": "0.2.1",
   "download_url": "https://github.com/J0shS/ECTHub-Messenger-Distrib/releases/latest/download/Setup_ECTHub_Messenger.exe",
   "message": "Send images and GIFs, optional notification sounds."
